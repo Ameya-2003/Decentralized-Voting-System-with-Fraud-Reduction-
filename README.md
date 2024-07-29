@@ -2,6 +2,11 @@
 
 This project is a blockchain voting system implemented in Solidity. It allows the owner of the contract to add candidates and authorize voters using signatures. The voters can then vote for their preferred candidate using their signature. The contract also allows anyone to query the candidates and the winner of the election.
 
+## 🏛️ System Architecture
+
+![image](https://github.com/user-attachments/assets/bc0fabf1-3423-461d-9ab9-d31fac480c36)
+
+
 ## 🛠 Installation
 
 To install the project, you need to have Node.js and npm installed. Then, clone the repository and follow the procedure in the project directory:
